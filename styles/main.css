@@ -11,8 +11,7 @@ html {
 .element::-webkit-scrollbar { width: 0 !important }
 
 body {
-    background: #151D21;
-    background-image: url('../images/bg.png');
+    background: #333333;
     background-size: 100%;
     background-repeat: no-repeat;
     color: white;
@@ -66,10 +65,12 @@ section header {
 }
 
 .home {
+    font-family: 'Roboto Thin';
     margin-top: 220px;
 }
 
 .games {
+    font-family: 'Roboto Thin';
     margin-top: 20px;
 }
 
@@ -252,3 +253,4 @@ footer {
         margin-top: 29px;
     }
 }
+
