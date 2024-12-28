@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background: #004d4d;
+    background: #004d4d; /* Updated background color */
     color: white;
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -37,7 +37,7 @@ header .logo a {
 }
 
 .topnav {
-    background: #004d4d;
+    background: #004d4d; /* Updated to match background */
     height: 100px;
     list-style: none;
     margin: 50px 0 0;
@@ -114,14 +114,14 @@ footer {
     bottom: 0;
     width: 100%;
     padding: 10px 0;
-    background: #004d4d;
+    background: #004d4d; /* Updated to match background */
 }
 
 /* Buttons */
 section .mybutton {
     font-size: 24px;
     color: #151D21;
-    background: #004d4d;
+    background: #ff7a7a;
     padding: 6px 12px;
     margin: 30px 5%;
     border: none;
