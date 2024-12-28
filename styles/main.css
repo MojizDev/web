@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background: #373b4d;
+    background: #004d4d;
     color: white;
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -37,7 +37,7 @@ header .logo a {
 }
 
 .topnav {
-    background: #333;
+    background: #004d4d;
     height: 100px;
     list-style: none;
     margin: 50px 0 0;
@@ -114,14 +114,14 @@ footer {
     bottom: 0;
     width: 100%;
     padding: 10px 0;
-    background: #333;
+    background: #004d4d;
 }
 
 /* Buttons */
 section .mybutton {
     font-size: 24px;
     color: #151D21;
-    background: #ff7a7a;
+    background: #004d4d;
     padding: 6px 12px;
     margin: 30px 5%;
     border: none;
